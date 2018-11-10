@@ -1,10 +1,40 @@
 # FriendFinder
 Homework # 13
 
+### **Creator:** `Komal Batra`
+**Type of Project:** `Express Server`
 
-Mask Icon for Jumbotron Heading: <i class="fas fa-mask"></i>
-Search: <i class="fab fa-searchengin"></i>
-Survey: <i class="fas fa-clipboard-list"></i>
-Submit: <i class="fas fa-check-circle"></i>
+Completed on: Nov 13th 2018
 
-FontAwesome: <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+- - -
+## IMPORTANT LINKS
+
+* [Link to the web site hosted on Heroku](https://evening-gorge-44760.herokuapp.com/)
+
+* [Link to my repository](https://github.com/komalbatra/FriendFinder.git)
+
+* [Link to my repository](https://komalbatra.github.io/Portfolio/#portfolio)
+
+
+- - - 
+
+## Description of Application
+Super Friend Finder is a web-based compatability app that takes in user input (based on survey) and then compares the user with other users or friends to find the best match. 
+ 
+- - -
+## Technologies Used
+- HTML
+- Bootstrap
+    - Modal, Card, Button, Form, JumboTron
+- Font Awesome
+- Collect Library
+- Javascript
+- JQuery
+- Git
+- GitHub
+- Heroku
+- Node Pacakages installed:
+    - Express, Path
+
+
+
