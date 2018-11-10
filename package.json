@@ -1,0 +1,23 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "Komal's Friend Finder",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/komalbatra/FriendFinder.git"
+  },
+  "author": "Komal Batra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/komalbatra/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/komalbatra/FriendFinder#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
